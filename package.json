@@ -17,6 +17,7 @@
         "chaseadamsio.vscode-noble-theme-argon", 
         "dracula-theme.theme-dracula", 
         "lukehoban.Go", 
-        "tootone.org-mode"
+        "tootone.org-mode",
+        "DavidAnson.vscode-markdownlint"
     ]
 }
