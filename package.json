@@ -2,7 +2,7 @@
     "name": "vscode-ext-pack",
     "displayName": "vscode-ext-pack",
     "description": "mbialon ext pack",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "mbialon",
     "engines": {
         "vscode": "^1.17.0"
@@ -10,13 +10,13 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [ 
-        "PeterJausovec.vscode-docker", 
-        "TeddyDD.fish", 
-        "akamud.vscode-theme-onelight", 
-        "chaseadamsio.vscode-noble-theme-argon", 
-        "dracula-theme.theme-dracula", 
-        "lukehoban.Go", 
+    "extensionDependencies": [
+        "PeterJausovec.vscode-docker",
+        "TeddyDD.fish",
+        "akamud.vscode-theme-onelight",
+        "chaseadamsio.vscode-noble-theme-argon",
+        "dracula-theme.theme-dracula",
+        "lukehoban.Go",
         "tootone.org-mode",
         "DavidAnson.vscode-markdownlint"
     ]
