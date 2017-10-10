@@ -18,6 +18,7 @@
         "dracula-theme.theme-dracula",
         "lukehoban.Go",
         "tootone.org-mode",
-        "DavidAnson.vscode-markdownlint"
+        "DavidAnson.vscode-markdownlint",
+        "KnisterPeter.vscode-github",
     ]
 }
