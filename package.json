@@ -24,6 +24,7 @@
         "eamodio.gitlens",
         "alefragnani.project-manager",
         "be5invis.toml",
-        "wayou.vscode-todo-highlight"
+        "wayou.vscode-todo-highlight",
+        "donjayamanne.python"
     ]
 }
