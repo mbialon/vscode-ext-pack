@@ -23,6 +23,7 @@
         "zxh404.vscode-proto3",
         "eamodio.gitlens",
         "alefragnani.project-manager",
-        "be5invis.toml"
+        "be5invis.toml",
+        "wayou.vscode-todo-highlight"
     ]
 }
