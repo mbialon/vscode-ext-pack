@@ -25,6 +25,7 @@
         "alefragnani.project-manager",
         "be5invis.toml",
         "wayou.vscode-todo-highlight",
-        "donjayamanne.python"
+        "donjayamanne.python",
+        "redhat.vscode-yaml"
     ]
 }
