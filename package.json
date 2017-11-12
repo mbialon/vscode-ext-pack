@@ -26,6 +26,7 @@
         "be5invis.toml",
         "wayou.vscode-todo-highlight",
         "ms-python.python",
-        "redhat.vscode-yaml"
+        "redhat.vscode-yaml",
+        "ms-vscode.cpptools"
     ]
 }
