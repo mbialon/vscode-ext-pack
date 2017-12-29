@@ -27,6 +27,7 @@
         "wayou.vscode-todo-highlight",
         "ms-python.python",
         "redhat.vscode-yaml",
-        "ms-vscode.cpptools"
+        "ms-vscode.cpptools",
+        "CoenraadS.bracket-pair-colorizer"
     ]
 }
