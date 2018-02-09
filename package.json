@@ -28,6 +28,7 @@
         "redhat.vscode-yaml",
         "ms-vscode.cpptools",
         "CoenraadS.bracket-pair-colorizer",
-        "bungcip.better-toml"
+        "bungcip.better-toml",
+        "carolynvs.dep"
     ]
 }
