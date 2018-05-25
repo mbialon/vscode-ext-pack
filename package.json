@@ -25,6 +25,7 @@
         "redhat.vscode-yaml",
         "ms-vscode.cpptools",
         "bungcip.better-toml",
-        "carolynvs.dep"
+        "carolynvs.dep",
+        "gerred.theme-plain"
     ]
 }
