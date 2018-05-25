@@ -13,7 +13,6 @@
     "extensionDependencies": [
         "PeterJausovec.vscode-docker",
         "TeddyDD.fish",
-        "akamud.vscode-theme-onelight",
         "chaseadamsio.vscode-noble-theme-argon",
         "dracula-theme.theme-dracula",
         "lukehoban.Go",
@@ -22,12 +21,9 @@
         "KnisterPeter.vscode-github",
         "zxh404.vscode-proto3",
         "eamodio.gitlens",
-        "alefragnani.project-manager",
-        "wayou.vscode-todo-highlight",
         "ms-python.python",
         "redhat.vscode-yaml",
         "ms-vscode.cpptools",
-        "CoenraadS.bracket-pair-colorizer",
         "bungcip.better-toml",
         "carolynvs.dep"
     ]
